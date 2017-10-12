@@ -4,7 +4,7 @@ Consume the Warframe API. To request it with node.
 
 ## Requirements
 
-- [Node](https://nodejs.org/en/) (if you don't have/want Docker)
+- [Node](https://nodejs.org/en/)
 
 ---
 
