@@ -1,0 +1,35 @@
+{
+  "name": "node-warframe-fetcher",
+  "version": "0.0.1",
+  "description": "Node Warframe Fetcher",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "eslint --ext .js src",
+    "pretest": "npm run lint"
+  },
+  "author": "Lund",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "moment": "2.18.1",
+    "warframe-worldstate-data": "git+https://github.com/WFCD/warframe-worldstate-data.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.0.0",
+    "eslint-plugin-html": "^2.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.2.0",
+    "file-loader": "^0.11.1",
+    "jsdoc": "3.5.5",
+    "log-symbols": "2.0.0",
+    "tui-jsdoc-template": "1.2.2",
+    "uglify-js": "git://github.com/mishoo/UglifyJS2#harmony-v2.8.22"
+  },
+  "engines": {
+    "node": ">= 7.0.0",
+    "npm": ">= 3.10.0"
+  }
+}
