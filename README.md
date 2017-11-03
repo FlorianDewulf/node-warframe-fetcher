@@ -10,10 +10,6 @@ Consume the Warframe API. To request it with node.
 
 ## Launch the doc generation 
 
-    $ rake doc
-
-or
-
     $ ./node_modules/.bin/jsdoc src -d static/doc
 
 (So of course you need to `npm i` before)

@@ -1,0 +1,40 @@
+[
+  {
+    "_id": {
+      "$oid": "59fc4ec4bcdb16f91456b181"
+    },
+    "Region": 8,
+    "Seed": 25704,
+    "Activation": {
+      "$date": {
+        "$numberLong": "1509707460742"
+      }
+    },
+    "Expiry": {
+      "$date": {
+        "$numberLong": "1509713536627"
+      }
+    },
+    "Node": "SolNode118",
+    "Modifier": "VoidT3"
+  },
+  {
+    "_id": {
+      "$oid": "59fc5195bf0a684184c5ca7f"
+    },
+    "Region": 10,
+    "Seed": 59011,
+    "Activation": {
+      "$date": {
+        "$numberLong": "1509708181649"
+      }
+    },
+    "Expiry": {
+      "$date": {
+        "$numberLong": "1509714563180"
+      }
+    },
+    "Node": "SolNode146",
+    "Modifier": "VoidT2"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "faction": "Grineer",
+    "location": "Selkie (Sedna)",
+    "remaining": "2 hours ago",
+    "minLevel": 34,
+    "maxLevel": 44,
+    "missionType": "Sabotage",
+    "reward": {
+      "credits": 12800,
+      "items": [
+        {
+          "quantity": 1,
+          "name": "Wukong Macak Helmet Blueprint"
+        }
+      ]
+    }
+  },
+  {
+    "faction": "Grineer",
+    "location": "Rotuma (Kuva Fortress)",
+    "remaining": "an hour ago",
+    "minLevel": 34,
+    "maxLevel": 36,
+    "missionType": "Capture",
+    "reward": {
+      "credits": 12200,
+      "items": [
+        {
+          "quantity": 5,
+          "name": "Synthula"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "attackers": {
+      "faction": "Corpus",
+      "reward": [
+        {
+          "quantity": 3,
+          "name": "Fieldron"
+        }
+      ],
+      "percentage": 86.43085106382978
+    },
+    "defenders": {
+      "faction": "Grineer",
+      "reward": [
+        {
+          "quantity": 3,
+          "name": "Detonite Injector"
+        }
+      ],
+      "percentage": 13.569148936170214
+    },
+    "location": "Orias (Europa)"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "remaining": "in an hour",
+  "boss": "Lech Kril",
+  "faction": "Grineer",
+  "missions": [
+    {
+      "node": "Cassini (Saturn)",
+      "type": "Evacuation",
+      "malus": "Enemy Physical Enhancement: Puncture"
+    },
+    {
+      "node": "Stephano (Uranus)",
+      "type": "Sabotage",
+      "malus": "Augmented Enemy Armor"
+    },
+    {
+      "node": "War (Mars)",
+      "type": "Assassination",
+      "malus": "Energy Reduction"
+    }
+  ]
+}

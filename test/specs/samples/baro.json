@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {
+      "$oid": "5967933ca351963d1cd7faa5"
+    },
+    "Activation": {
+      "$date": {
+        "$numberLong": "1509714000000"
+      }
+    },
+    "Expiry": {
+      "$date": {
+        "$numberLong": "1509886800000"
+      }
+    },
+    "Character": "Baro'Ki Teel",
+    "Node": "SaturnHUB"
+  }
+]

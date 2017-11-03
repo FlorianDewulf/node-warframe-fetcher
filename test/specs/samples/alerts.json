@@ -1,0 +1,71 @@
+[
+  {
+    "_id": {
+      "$oid": "59fc57ad46ef77c0dd505f86"
+    },
+    "Activation": {
+      "$date": {
+        "$numberLong": "1509710000974"
+      }
+    },
+    "Expiry": {
+      "$date": {
+        "$numberLong": "1509713692023"
+      }
+    },
+    "MissionInfo": {
+      "missionType": "MT_SABOTAGE",
+      "faction": "FC_GRINEER",
+      "location": "SolNode187",
+      "levelOverride": "/Lotus/Levels/Proc/Grineer/GrineerAsteroidSabotage",
+      "enemySpec": "/Lotus/Types/Game/EnemySpecs/GrineerSquadOne",
+      "minEnemyLevel": 34,
+      "maxEnemyLevel": 44,
+      "difficulty": 0.98031228566529,
+      "seed": 214909,
+      "missionReward": {
+        "credits": 12800,
+        "items": [
+          "/Lotus/StoreItems/Types/Recipes/Helmets/MonkeyKingAltBHelmetBlueprint"
+        ]
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59fc5ba99aada61053277b0d"
+    },
+    "Activation": {
+      "$date": {
+        "$numberLong": "1509711015755"
+      }
+    },
+    "Expiry": {
+      "$date": {
+        "$numberLong": "1509717507713"
+      }
+    },
+    "MissionInfo": {
+      "missionType": "MT_CAPTURE",
+      "faction": "FC_GRINEER",
+      "location": "SolNode743",
+      "levelOverride": "/Lotus/Levels/Proc/Grineer/GrineerFortressCapture",
+      "enemySpec": "/Lotus/Types/Game/EnemySpecs/GrineerSquadFortressTwo",
+      "extraEnemySpec": "/Lotus/Types/Game/EnemySpecs/GamemodeExtraEnemySpecs/GrineerCaptureTargets",
+      "vipAgent": "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerFortAAgent",
+      "minEnemyLevel": 34,
+      "maxEnemyLevel": 36,
+      "difficulty": 0.77092764060357,
+      "seed": 19528,
+      "missionReward": {
+        "credits": 12200,
+        "countedItems": [
+          {
+            "ItemType": "/Lotus/Types/Items/MiscItems/Eventium",
+            "ItemCount": 5
+          }
+        ]
+      }
+    }
+  }
+]

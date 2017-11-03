@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {
+      "$oid": "59fb41079115cd0174f58ce6"
+    },
+    "Activation": {
+      "$date": {
+        "$numberLong": "1509638407334"
+      }
+    },
+    "Expiry": {
+      "$date": {
+        "$numberLong": "1509724740000"
+      }
+    },
+    "Boss": "SORTIE_BOSS_KRIL",
+    "Reward": "/Lotus/Types/Game/MissionDecks/SortieRewards",
+    "ExtraDrops": [],
+    "Seed": 89745,
+    "Variants": [
+      {
+        "missionType": "MT_EVACUATION",
+        "modifierType": "SORTIE_MODIFIER_PUNCTURE",
+        "node": "SolNode70",
+        "tileset": "GrineerGalleonTileset"
+      },
+      {
+        "missionType": "MT_SABOTAGE",
+        "modifierType": "SORTIE_MODIFIER_ARMOR",
+        "node": "SolNode122",
+        "tileset": "GrineerOceanTileset"
+      },
+      {
+        "missionType": "MT_ASSASSINATION",
+        "modifierType": "SORTIE_MODIFIER_LOW_ENERGY",
+        "node": "SolNode99",
+        "tileset": "GrineerSettlementTileset"
+      }
+    ],
+    "Twitter": true
+  }
+]

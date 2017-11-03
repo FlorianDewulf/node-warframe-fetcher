@@ -1,0 +1,22 @@
+[
+  {
+    "remaining": "2 hours ago",
+    "level": {
+      "value": "Neo  (Tier 3)",
+      "num": 3
+    },
+    "node": "Laomedeia (Neptune)",
+    "faction": "Corpus",
+    "type": "Spy"
+  },
+  {
+    "remaining": "2 hours ago",
+    "level": {
+      "value": "Meso (Tier 2)",
+      "num": 2
+    },
+    "node": "Draco (Ceres)",
+    "faction": "Grineer",
+    "type": "Survival"
+  }
+]
