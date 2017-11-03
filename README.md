@@ -4,15 +4,21 @@ Consume the Warframe API. To request it with node.
 
 ## Requirements
 
-- [Node](https://nodejs.org/en/) (if you don't have/want Docker)
+- [Node](https://nodejs.org/en/)
 
 ---
 
+## Installation guide
+
+    $ npm i
+
 ## Launch the doc generation 
 
-    $ ./node_modules/.bin/jsdoc src -d static/doc
+    $ npm run doc
 
-(So of course you need to `npm i` before)
+## Launch the test
+
+    $ npm run test
 
 ---
 
